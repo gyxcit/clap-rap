@@ -85,3 +85,115 @@ Here is the list of type of rap I selected for my study:
 ---
 
 **Note:** The boundaries between these subgenres are often blurred, and many artists navigate between several styles throughout their career or even from one track to another.
+
+
+# 4. Artists
+- Jul
+- Ninho
+- Gims
+- Booba
+- Damso
+- Niska
+- PLK
+- SCH
+- Koba LaD
+- Maes
+- Kalash Criminel
+- Leto
+- Vald
+- Soolking
+- Laylow
+- Tiakola
+- Zola
+- Dinos
+- Hatik
+- RK
+- Alonzo
+- Sofiane (Fianso)
+- Mister V
+- Siboy
+- Lacrim
+- Kaaris
+- Jok’Air
+- Hornet La Frappe
+- Gazo
+- Ziak
+- Freeze Corleone
+- Sadek
+- Moha La Squale
+- Hayce Lemsi
+- Naps
+- Dosseh
+- Lartiste
+- Heuss L’enfoiré
+- S.Pri Noir
+- Oboy
+- Isha
+- Kofs
+- Djadja & Dinaz
+- Houssame
+- Vegedream
+- Bosh
+- Bramsito
+- Landy
+- YL
+- Mac Tyer
+- Guizmo
+- DTF
+- Nemir
+- Lyna Mahyem
+- H Magnum
+- Lomepal
+- Layon
+- Shay
+- Médine
+- Alrima
+- KPoint
+- F430
+- Brvmsoo
+- Nash
+- Doxx
+- Macronik
+- Sofiane Pamart
+- Yaro
+- Kery James
+- Orelsan
+- Naza
+- Black M
+- Gradur
+- Timal
+- Tayc
+- Rim'K
+- Alkpote
+- Tunisiano
+- Mac Kregor
+- Lefa
+- Franglish
+- Diddi Trix
+- Gambi
+- Kodes
+- Ashe 22
+- Djam
+- Benash
+- La Fouine
+- Soprano
+- Youssoupha
+- Lino
+- Oxmo Puccino
+- Akhenaton
+- Shurik’n
+- Faf Larage
+
+# 5. French Rap Artists and Subgenres
+
+We associate artists with approximate subgenres (some artists span multiple styles):
+
+| Subgenre / Family                                | Main Artists (examples) |
+|-------------------------------------------------|------------------------|
+| Classic Hip-hop                                  | Oxmo Puccino, Akhenaton, Shurik’n, Faf Larage, Lino, Médine, Kery James, La Fouine, Soprano, Black M, Rim’K, Tunisiano |
+| Boom bap / Conscious Rap                         | Oxmo Puccino, Médine, Lino, Kery James, Akhenaton |
+| Trap / Drill / Club Rap                           | Ninho, Jul, Booba, Damso, Gazo, Ziak, PLK, SCH, Koba LaD, Maes, Kalash Criminel, Leto, Vald, Soolking, Laylow, Tiakola, Zola, Dinos, Hatik, RK, Alonzo, Sofiane, Mister V, Siboy, Lacrim, Kaaris, Jok’Air, Hornet La Frappe, Freeze Corleone |
+| Melodic / Cloud / Chill / Emo Rap               | Lomepal, Laylow, Shay, Alrima, KPoint, Brvmsoo, Layon, Nash, Sofiane Pamart |
+| Experimental / Fusion / Rap Rock / Jazz Rap / Deepkho | Bramsito, F430, Doxx, Macronik, Ashe 22, Djam, Franglish, Tayc |
+| Aggressive / Street / Hardcore                  | Kalash Criminel, Kaaris, Ziak, Freeze Corleone, Sofiane, Hornet La Frappe, Niska, RK |
+| International Influences / Afrotrap / Grime    | Vegedream, Naza, YL, Isha, Dosseh, Gambi, Kodes, Ashe 22, DTF|
